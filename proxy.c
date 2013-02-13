@@ -1,9 +1,6 @@
 /*
  * proxy.c - CS:APP Web pr- CS:APP Web proxy
- *
- * TEAM MEMBERS:
- *      Peter Johnston, pemjohns@gmail.com
- *		Scott Young, syoung160@gmail.com     
+ *  
  * 
  * Description: proxy.c acts as an intermediary between a client and server.
  * Using threads it is able to operate concurently and serve multiple clients.
